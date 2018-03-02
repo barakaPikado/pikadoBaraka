@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: pyDarts\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Olivier BILHAUT <bilhautolivier@neuf.fr>\n"
+"Language-Team: @Poilou <labiloute@neuf.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.6.10\n"
+
+msgid "game-list"
+msgstr "Merci de choisir un jeu"
+
+msgid "game-options"
+msgstr "Options du jeu"
+
+msgid "game-options-binary"
+msgstr "Utilisez les touches Fx pour changer les options."
+
+msgid "players-names"
+msgstr "Donnez un nom à  vos joueurs"
+
+msgid "players-names-subtitle"
+msgstr "Appuyez sur + pour ajouter, - pour supprimer, <Tab> pour mélanger"
+
+msgid "press-player"
+msgstr "Appuyez sur le bouton Player"
+
+msgid "press-player-remote"
+msgstr "En attente du joueur distant"
+
+msgid "release-darts"
+msgstr "Retirez les flèches"
+
+msgid "game-stats"
+msgstr "Statistiques de la partie"
+
+msgid "master-client-title"
+msgstr "Prêt à  botter des culs ?"
+
+msgid "master-client-empty"
+msgstr "Pas de partie en cours sur ce MasterServer"
+
+msgid "master-client-no-connection"
+msgstr "Impossible de joindre le MasterServer"
+
+msgid "game-client-connecting"
+msgstr "Connexion au serveur de partie... Patientez svp"
+
+msgid "game-client-no-connection"
+msgstr "Impossible de joindre le serveur de partie"
+
+msgid "master-client-connecting"
+msgstr "Connexion au Master Server en cours. Patientez..."
+
+msgid "master-client-refresh"
+msgstr "Tapez Espace pour rafraîchir"
+
+msgid "master-player-has-left"
+msgstr ""
+"Le joueur principal a  quitté la partie. Partie annulée. Appuyez sur Entrée"
+
+msgid "getting-info-from-server"
+msgstr "Des informations sont en cours de téléchargement..."
+
+msgid "get-ready"
+msgstr "Prêt ?"
+
+msgid "version-mismatch"
+msgstr ""
+"Attention ! Votre version de pyDarts n'est pas la même que celle du serveur."
+
+msgid "game-no-desc"
+msgstr "Pas de description"
+
+msgid "game-type"
+msgstr "Bienvenue ! Merci de sélectionner votre type de partie"
+
+msgid "game-type-local"
+msgstr "Partie simple"
+
+msgid "game-type-master"
+msgstr "Rejoindre une partie en réseau"
+
+msgid "game-type-manual"
+msgstr "Créer ou joindre manuellement une partie en réseau"
+
+msgid "net-options"
+msgstr "Précisez vos options de serveur pyDarts"
+
+msgid "net-options-netgamename"
+msgstr "Nom de partie"
+
+msgid "net-options-servername"
+msgstr "Nom ou adresse IP du serveur"
+
+msgid "net-options-serveralias"
+msgstr "Alias de serveur (uniquement pour création)"
+
+msgid "net-options-serverport"
+msgstr "Port du serveur"
+
+msgid "players-ready-masterplayer"
+msgstr "Joueurs prêts... Touche Entrée pour lancer la partie !"
+
+msgid "players-ready-slaveplayer"
+msgstr "Joueurs prêts... En attente du Maître de partie"
+
+msgid "net-client-refresh-players"
+msgstr "Rafraîchissement de la liste des joueurs..."
+
+msgid "serial-issue-1"
+msgstr "Impossible d'ouvrir le port série"
+
+msgid "serial-issue-2"
+msgstr "Ce jeu nécessite une cible USB compatible pyDarts"
+
+msgid "serial-issue-3"
+msgstr "Suivez le wiki sur le site officiel"
+
+msgid "serial-issue-4"
+msgstr "Kenavo les kopins !"
+
+msgid "last-round-reached"
+msgstr "Dernier tour atteint..."
+
+msgid "hi-score"
+msgstr "Meilleur score"
+
+msgid "remaining-darts"
+msgstr "Fléchettes"
+
+msgid "round"
+msgstr "Tour"
+
+msgid "over"
+msgstr "sur"
+
+msgid "exit"
+msgstr "Quitter"
+
+msgid "start-again"
+msgstr "Recommencer"
+
+msgid "select-port"
+msgstr "Plusieurs ports utilisables ont été détectés"
+
+msgid "select-port-subtxt"
+msgstr ""
+"Merci de sélectionner le port que vous souhaitez utiliser avec les touches Fx"
+
+msgid "board-calibration"
+msgstr "Calibrage de la cible !"
+
+msgid "press-on-parts"
+msgstr ""
+"Merci d'appuyer un a un sur chaque partie de la cible. Echap pour revenir en "
+"arrière, Entrée pour quitter, Espace pour passer."
+
+msgid "left"
+msgstr "Reste"
+
+msgid "press-on"
+msgstr "Appuyez sur"
+
+msgid "serverlist-header-STATUS"
+msgstr "Statut"
+
+msgid "serverlist-header-GAMENAME"
+msgstr "Nom de partie"
+
+msgid "serverlist-header-PLAYERS"
+msgstr "Joueurs"
+
+msgid "serverlist-header-SERVERIP"
+msgstr "Serveur"
+
+msgid "serverlist-header-SERVERPORT"
+msgstr "Port"
+
+msgid "Description-Killer"
+msgstr ""
+"Armez-vous en visant votre chiffre !\n"
+"Puis tuez vos adversaires un par un !\n"
+"Au moins 4 points à  votre score, vous devenez Killer\n"
+"Alors tuez tous les autres joueurs en visant leurs score"
+
+msgid "Killer-totalround"
+msgstr "Nombre de tours"
+
+msgid "Description-Practice"
+msgstr ""
+"Entraînez-vous en visant les chiffres\n"
+"fournis par l'ordinateur\n"
+"Mode Master : visez les doubles et triples"
+
+msgid "Practice-totalround"
+msgstr "Nombre de tours"
+
+msgid "Practice-master"
+msgstr "Option Master"
+
+msgid "Description-Sample_game"
+msgstr ""
+"Cet exemple est une base pour\n"
+"apprendre comment créer ses propres jeux\n"
+"Nécessite des compétences en python\n"
+"Regardez le code source !"
+
+msgid "Sample_game-totalround"
+msgstr "Nombre de tours"
+
+msgid "Description-321_Zlip"
+msgstr ""
+"Une sorte de 301 inversé\n"
+"Encore plus marrant :)\n"
+"Partez de zéro pour atteindre exactement 321\n"
+"Dès que vous atteignez le score d'un autre joueur\n"
+"Zlippé ! Il retombe à  zéro !\n"
+"Master ! vous oblige a zlipper quelqu'un"
+
+msgid "321_Zlip-master"
+msgstr "Option Master"
+
+msgid "321_Zlip-advanced"
+msgstr "Option Advanced"
+
+msgid "321_Zlip-totalround"
+msgstr "Nombre de tours"
+
+msgid "Description-Ho_One"
+msgstr ""
+"Le fameux 301, 501, 1001...\n"
+"Ou tout autre score !\n"
+"Le jeu simple pour commencer les fléchettes\n"
+"sans avoir a apprendre des règles compliquées\n"
+"Commencez au score choisi\n"
+"Le premier à exactement zéro a gagné !"
+
+msgid "Ho_One-startingat"
+msgstr "Score de démarrage"
+
+msgid "Ho_One-totalround"
+msgstr "Nombre de tours"
+
+msgid "Ho_One-double_in"
+msgstr "Double In"
+
+msgid "Ho_One-double_out"
+msgstr "Double Out"
+
+msgid "Description-Cricket"
+msgstr ""
+"Ahhhh, le fameux Cricket !\n"
+"Jouez-le simple, ou carrément Crazy !\n"
+"Visez chaque chiffre au moins 3 fois pour fermer.\n"
+"Option Crazy : les chiffres tournent quand ils sont ouverts.\n"
+"Option Cut throat : donne les points aux adversaires\n"
+"DrinkScore : si un joueur atteint ce score en Cut Throat\n"
+"                     il paye son coup !"
+
+msgid "Cricket-optioncutthroat"
+msgstr "Option Coupe-Gorge"
+
+msgid "Cricket-drinkscore"
+msgstr "Paye ton coup !"
+
+msgid "Cricket-totalround"
+msgstr "Nombre de tours"
+
+msgid "Cricket-optioncrazy"
+msgstr "Option Crazy !"
+
+msgid "Description-Kapital"
+msgstr ""
+"AKA Burma Road\n"
+"Touchez au moins une fois le chiffre demandé par tour\n"
+"Ou votre score sera divisé par deux\n"
+"Après 15 tours, le meilleure score gagne\n"
+"Certains challenges sont plutôt durs :\n"
+"Doubles, Triples, un de chaque couleur, Suite..."
+
+msgid "Description-Kinito"
+msgstr ""
+"Partez de 0 et atteignez 210\n"
+"Ne jouez jamais un score plus faible que le précédent!\n"
+"Préférez arrêter que de perdre le tour en entier\n"
+"Joker : le T7, un chiffre est donné au hasard\n"
+"En visant ce chiffre, vous divisez le score des autres par 2"
+
+msgid "Kinito-totalround"
+msgstr "Nombre de tours"
+
+msgid "Kinito-master"
+msgstr "Option Master"
+
+msgid "Kinito-kinito"
+msgstr "Score Kinito"
+
+msgid "Kinito-winscore"
+msgstr "Score de victoire"
+
+msgid "Description-Shanghai"
+msgstr ""
+"Une version du fameux Round The Clock\n"
+"Premier tour, visez le 1, deuxième le 2, etc.\n"
+"Après 7 tours, le meilleur score gagne !"
+
+msgid "Shanghai-totalround"
+msgstr "Nombre de tours"
+
+msgid "Description-Football"
+msgstr ""
+"Encore un classique !\n"
+"Le joueur qui touche le centre est le porteur du ballon\n"
+"Quand on est porteur du ballon, on marque des buts\n"
+"Pour cela, viser les doubles et les triples\n"
+"Le premier a atteindre 3 buts a gagné !"
+
+msgid "Football-totalround"
+msgstr "Nombre de tours"
+
+msgid "Football-master"
+msgstr "Option Master"
+
+msgid "Football-goals"
+msgstr "Nombre de buts"

@@ -1,0 +1,12 @@
+What is pyDarts ?
+***************************************
+pyDarts is an Open Source and cross-platform DIY "real" darts game.
+You need modify your existing darts board. You can re-use one, to include an Arduino UNO controler. 
+No panic : a how-to of technical changes is provided on the wiki !
+Then, you have to upload our small configuration (included) in this Arduino controler, connect it to your computer, and then can now play with your friends at many famous games at home or elsewhere.
+pyDarts is made to make you able to easily add you own games, and share them with the community.
+
+For more informations, please visit :
+***************************************
+http://sourceforge.net/p/pydarts/wiki/Home/
+

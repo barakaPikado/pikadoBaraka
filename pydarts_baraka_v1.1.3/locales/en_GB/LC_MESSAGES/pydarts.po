@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pyDarts\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Olivier BILHAUT <bilhautolivier@neuf.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "game-list"
+msgstr "Please select your game"
+
+msgid "game-options"
+msgstr "Game options for"
+
+msgid "game-options-binary"
+msgstr "Use Fx keys to modify options."
+
+msgid "players-names"
+msgstr "Please give players names"
+
+msgid "players-names-subtitle"
+msgstr "Press + to add, - to remove, <Tab> to randomize"
+
+msgid "press-player"
+msgstr "Please press Player button..."
+
+msgid "press-player-remote"
+msgstr "Waiting for remote player..."
+
+msgid "release-darts"
+msgstr "Release Darts"
+
+msgid "game-stats"
+msgstr "Game stats"
+
+msgid "master-client-title"
+msgstr "Ready to kick ass ?"
+
+msgid "master-client-empty"
+msgstr "Master server has no game actually"
+
+msgid "master-client-no-connection"
+msgstr "Unable to join Master Server"
+
+msgid "master-client-connecting"
+msgstr "Connecting to Master Server... Please wait."
+
+msgid "game-client-connecting"
+msgstr "Connecting to game server... Please wait..."
+
+msgid "game-client-no-connection"
+msgstr "Unable to join Game Server"
+
+msgid "master-client-refresh"
+msgstr "Hit spacebar to refresh"
+
+msgid "master-player-has-left"
+msgstr "The Master Player has left the game. Game Aborted. Press enter"
+
+msgid "getting-info-from-server"
+msgstr "Getting info from server. Please wait a few seconds."
+
+msgid "get-ready"
+msgstr "Get ready !"
+
+msgid "version-mismatch"
+msgstr ""
+"Warning ! Your version of pyDarts do not match servers' version. Please "
+"upgrade !"
+
+msgid "game-no-desc"
+msgstr "No description available"
+
+msgid "game-type"
+msgstr "Welcome ! Please select your game type"
+
+msgid "game-type-local"
+msgstr "Local Game"
+
+msgid "game-type-master"
+msgstr "Join a network game"
+
+msgid "game-type-manual"
+msgstr "Create network game (or manually join)"
+
+msgid "net-options"
+msgstr "Please set your network options"
+
+msgid "net-options-netgamename"
+msgstr "Game name"
+
+msgid "net-options-servername"
+msgstr "Game Server name or ip"
+
+msgid "net-options-serveralias"
+msgstr "Game Server IP or DNS Alias (only required for game creation)"
+
+msgid "net-options-serverport"
+msgstr "Game Server port"
+
+msgid "players-ready-masterplayer"
+msgstr "Players ready... Press enter to launch game !"
+
+msgid "players-ready-slaveplayer"
+msgstr "Players ready... Waiting for Master Player"
+
+msgid "net-client-refresh-players"
+msgstr "Refreshing players list from server..."
+
+msgid "serial-issue-1"
+msgstr "Unable to load serial connection"
+
+msgid "serial-issue-2"
+msgstr "This game require a compatible USB dart board"
+
+msgid "serial-issue-3"
+msgstr "Please follow the wiki on the official website"
+
+msgid "serial-issue-4"
+msgstr "Bye amigo !"
+
+msgid "last-round-reached"
+msgstr "Last round reached..."
+
+msgid "hi-score"
+msgstr "Hi-score"
+
+msgid "remaining-darts"
+msgstr "Darts"
+
+msgid "round"
+msgstr "Round"
+
+msgid "over"
+msgstr "over"
+
+msgid "exit"
+msgstr "Exit"
+
+msgid "start-again"
+msgstr "Start again"
+
+msgid "testboard-screen"
+msgstr "Testboard mode !"
+
+msgid "testboard-press-board"
+msgstr "Press parts of your board to debug..."
+
+msgid "select-port"
+msgstr "Multiple usable serial port detected"
+
+msgid "select-port-subtxt"
+msgstr "Please select suitable port with the Fx keys"
+
+msgid "board-calibration"
+msgstr "Board calibration"
+
+msgid "press-on-parts"
+msgstr ""
+"Please press on all requested parts of your board. Spacebar to skip, Enter "
+"to stop, Esc go back."
+
+msgid "left"
+msgstr "Left"
+
+msgid "press-on"
+msgstr "Press on"
+
+msgid "serverlist-header-STATUS"
+msgstr "Status"
+
+msgid "serverlist-header-GAMENAME"
+msgstr "Game name"
+
+msgid "serverlist-header-PLAYERS"
+msgstr "Players"
+
+msgid "serverlist-header-SERVERIP"
+msgstr "Server"
+
+msgid "serverlist-header-SERVERPORT"
+msgstr "Port"
+
+msgid "Description-Killer"
+msgstr ""
+"Arm yourself aiming your score !\n"
+"and kill your opponents one by one !\n"
+"Get 4 points at your score and become a killer\n"
+"Then kill other players aiming their scores"
+
+msgid "Killer-totalround"
+msgstr "Number of rounds"
+
+msgid "Description-Practice"
+msgstr ""
+"Practice yourself aiming various scores\n"
+"Randomized by computer\n"
+"Master mode : aim doubles and triples"
+
+msgid "Practice-totalround"
+msgstr "Number of rounds"
+
+msgid "Practice-master"
+msgstr "Master Option"
+
+msgid "Description-Sample_game"
+msgstr ""
+"This sample game is a basis\n"
+"to learn how to create your own game\n"
+"Require a little bit of python skills\n"
+"Look at the source code :)"
+
+msgid "Sample_game-totalround"
+msgstr "Number of rounds"
+
+msgid "Description-321_Zlip"
+msgstr ""
+"A kind of inverted 301...\n"
+"But with more fun :)\n"
+"Start from 0, try to reach exactly 321\n"
+"If you reach other players' score\n"
+"He becomes Zlipped ! Back to zero\n"
+"Master : Zlipping at least one player is mandatory"
+
+msgid "321_Zlip-master"
+msgstr "Master option"
+
+msgid "321_Zlip-advanced"
+msgstr "Advanced option"
+
+msgid "321_Zlip-totalround"
+msgstr "Number of rounds"
+
+msgid "Description-Ho_One"
+msgstr ""
+"The famous 301, 501, 1001...\n"
+"Or whatever score you want to start from !\n"
+"The good standard for starting darts\n"
+"without having to learn crazy rules\n"
+"Start from your choosen score\n"
+"First player reaching exactly zero wins !"
+
+msgid "Ho_One-startingat"
+msgstr "Start game at this score"
+
+msgid "Ho_One-totalround"
+msgstr "Number of rounds"
+
+msgid "Ho_One-double_in"
+msgstr "Double In"
+
+msgid "Ho_One-double_out"
+msgstr "Double Out"
+
+msgid "Description-Cricket"
+msgstr ""
+"The famous Cricket !Play it simple, or keep it crazy !\n"
+"Aim all the requested numbers at least 3 times and win !\n"
+"Crazy Option : the numbers change every round if opened.\n"
+"Cut throat : extra points are given to your opponents\n"
+"DrinkScore : if a player reach this score in Cut Throat\n"
+"             he has to pay a drink !"
+
+msgid "Cricket-optioncutthroat"
+msgstr "Cut throat option"
+
+msgid "Cricket-drinkscore"
+msgstr "Pay a drink here !"
+
+msgid "Cricket-totalround"
+msgstr "Number of rounds"
+
+msgid "Cricket-optioncrazy"
+msgstr "Crazy Cricket option !"
+
+msgid "Description-Kapital"
+msgstr ""
+"AKA Burma Road\n"
+"Hit at least one given number per round\n"
+"Or your score will be divided by 2\n"
+"Played in 15 round. Highest score at the end wins\n"
+"Some of the challenge are really hard, like :\n"
+"Doubles, Triples, One of every color, Sequence..."
+
+msgid "Description-Kinito"
+msgstr ""
+"Start from 0 and reach 210\n"
+"Never play dart lower than the previous (or given) !\n"
+"Prefer to stop rather than loosing the whole round :)\n"
+"If you hit T7, a random score is given\n"
+"Hitting this score divide your opponents score by 2"
+
+msgid "Kinito-totalround"
+msgstr "Number of rounds"
+
+msgid "Kinito-master"
+msgstr "Master option"
+
+msgid "Kinito-kinito"
+msgstr "Kinito score"
+
+msgid "Kinito-winscore"
+msgstr "Victory Score"
+
+msgid "Description-Shanghai"
+msgstr ""
+"A version of the famous Round The Clock\n"
+"First round, play 1, second, play 2, and so on.\n"
+"After 7 round, highest score wins"
+
+msgid "Shanghai-totalround"
+msgstr "Number of rounds"
+
+msgid "Description-Football"
+msgstr ""
+"El classico !\n"
+"Hit bull's eye to become the ball holder\n"
+"Then hit doubles and triples to score goals\n"
+"First scoring 3 goals wins !"
+
+msgid "Football-totalround"
+msgstr "Number of rounds"
+
+msgid "Football-master"
+msgstr "Master option"
+
+msgid "Football-goals"
+msgstr "Number of required goals to win"
